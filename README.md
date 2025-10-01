@@ -16,4 +16,8 @@ Repositório para documentar os passos realizados para execução do teste de es
 - **resolucao**: pasta contendo um documento em word detalhando os passos de execuçao e um readme como mesmo conteúdo. 
 - **SQL**: contém as consultas SQL realizadas.
 
+O link do dashboard do Looker Studio é esse:
+
+[dashboard](https://lookerstudio.google.com/reporting/03fd562f-f4d0-4d37-baf4-b1289cad6972)
+
 Obrigada e a disposição para quaisquer esclarecimentos!
