@@ -1,6 +1,6 @@
 ## Estrutura de Pastas desse Repositório
 
-- **datasets**: pasta com os datasets gerados em Python durante a execução do teste. [data](../Teste_Analytics_BrunaCisotto/datasets/)
+- **datasets**: pasta com os datasets gerados em Python durante a execução do teste. [data](datasets/)
 - **instrucoes**: contém o documento recebido via e-mail com as instruções para o teste. [instrucoes](../Teste_Analytics_BrunaCisotto/instrucoes/)
 - **PDF**: pasta com os PDFs gerados, sendo eles: 
   - Um documento de análise dos resultados.
