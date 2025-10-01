@@ -1,2 +1,18 @@
 # Teste_Analytics_BrunaCisotto
+
 Repositório para documentar os passos realizados para execução do teste de estágio da empresa Quod.
+
+## Estrutura de Pastas desse Repositório
+
+- **datasets**: pasta com os datasets gerados em Python durante a execução do teste. 
+- **explicacao**: pasta contendo um documento em word detalhando os passos de execuçao e um readme como mesmo conteúdo.  
+- **instrucoes**: contém o documento recebido via e-mail com as instruções para o teste.
+- **PDF**: pasta com os PDFs gerados, sendo eles:
+  - Um documento de análise dos resultados.
+  - Uma cópia de um dashboard feito no Looker Studio.  
+- **prints gerados**: imagens do passo a passo de execução do teste.  
+- **Python**: dois códigos em Python em formato `.py` e `.ipynb` (totalizando 4 arquivos):
+  - `teste_quod`: arquivo da primeira parte do teste, com código de geração, tratamento do dataset e análise.
+  - `analise_quod`: arquivo da segunda parte do teste, com os gráficos necessários para análise.  
+- **SQL**: contém as consultas SQL realizadas.
+
