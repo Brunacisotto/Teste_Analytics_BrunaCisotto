@@ -134,7 +134,7 @@ Para as consultas em SQL utilizei o MySQL Workbench.
 A primeira tarefa aqui era: com base nas tabelas geradas no exercício anterior, escreva consultas SQL para:  
 - Listar o nome do produto, categoria e a soma total de vendas (Quantidade * Preço) para cada produto. Ordene o resultado pelo valor total de vendas em ordem decrescente.
 
-![sql](../prints%20gerados/consultasql%20(1).png)
+![sql](../prints%20gerados/consultasql%20(2).png)
 
 Utilizando a tabela data_clean.csv selecionei o produto e a categoria, multipliquei a quantidade pelo preço e agrupei pelos produtos, utilizei o format para deixar apenas duas casas decimais.  
 
@@ -144,7 +144,7 @@ A segunda tarefa aqui pedia:
 No mês de Junho de 2024 não temos dados, pois a base de dados foi gerada de 01/01/2023 a 31/12/2023.  
 Mas fiz a consulta para os dados de Junho de 2023.
 
-![sql2](../prints%20gerados/consultasql%20(2).png)
+![sql2](../prints%20gerados/consultasql%20(1).png)
 
 Selecionei o produto, somei o valor total de vendas formatando para duas casas decimais, filtrei o período do mês 06 de 2023, agrupei por produtos e organizei do menor para o maior valor mostrando os 10 produtos com menor valor de vendas no mês em questão.  
 Aqui podemos notar que o produto que menos vendeu em Junho de 2023 foram as barrinhas de ceral, seguidas por meias.  
