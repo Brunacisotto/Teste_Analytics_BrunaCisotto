@@ -1,4 +1,6 @@
-## Estrutura de Pastas desse Repositório
+## Teste de Analytics
+
+Esse repositório foi criado para documentar a resolução do teste para o estágio de Analytics da empresa Quod, e está estruturado da seguinte forma: 
 
 - **datasets**: pasta com os datasets gerados em Python durante a execução do teste. [data](datasets/)
 - **instrucoes**: contém o documento recebido via e-mail com as instruções para o teste. [instrucoes](instrucoes/)
@@ -22,7 +24,7 @@ Uma conclusão detalhada sobre a resolução do teste se encontra aqui:
 
 Relatório com até 300 palavras:
 
-[relatorio](relatorio_insights.pdf)
+[relatorio](PDF/relatorio_insights.pdf)
 
 O dashboard pode ser acessado por esse link: 
 
