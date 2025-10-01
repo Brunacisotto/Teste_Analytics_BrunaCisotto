@@ -16,8 +16,8 @@
 - **SQL**: contém as consultas SQL realizadas.
 [sql](SQL/)
 
-Uma conclusão detalhada sobre a resolução do teste se encontra aqui
+Uma conclusão detalhada sobre a resolução do teste se encontra aqui:
 
-[readme](README.md)
+[readme](resolucao/)
 
 Obrigada e a disposição para quaisquer esclarecimentos!
