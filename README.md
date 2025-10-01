@@ -18,7 +18,7 @@ Repositório para documentar os passos realizados para execução do teste de es
 
 Este é o Readme com a explicação passo-a-passo do que realizei:
 
-[readme](../Teste_Analytics_BrunaCisotto/resolucao/)
+[resolucao](../Teste_Analytics_BrunaCisotto/resolucao/README.md)
 
 Este é o link para o Dashboard do Looker Studio:
 
