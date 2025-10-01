@@ -11,7 +11,11 @@
   - `analise_quod`: arquivo da segunda parte do teste, com os gráficos necessários para análise. 
 - **resolucao**: pasta contendo um documento em word detalhando os passos de execuçao e um readme como mesmo conteúdo. 
 - **SQL**: contém as consultas SQL realizadas.
-  
+
+Um readme com explicações detalhadas pode ser encontrado aqui:
+
+[resolucao](../Teste_Analytics_BrunaCisotto/resolucao/README.md)
+
 O link do dashboard do Looker Studio é esse:
 
 [dashboard](https://lookerstudio.google.com/reporting/03fd562f-f4d0-4d37-baf4-b1289cad6972)
