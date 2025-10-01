@@ -20,6 +20,13 @@ Este é o Readme com a explicação passo-a-passo do que realizei:
 
 [readme](../Teste_Analytics_BrunaCisotto/explicacao/README.md)
 
+Este é o link para o Dashboard do Looker Studio:
+
+[looker](https://lookerstudio.google.com/reporting/03fd562f-f4d0-4d37-baf4-b1289cad6972)
+
+Fiz um video explicando o passo a passo da execução e o link para ele é esse:
+
+
 Obrigada pela atenção e a disposição para esclarecer qualquer ponto.
 
 
