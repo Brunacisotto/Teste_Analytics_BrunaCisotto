@@ -19,5 +19,10 @@
 Uma conclusão detalhada sobre a resolução do teste se encontra aqui:
 
 [readme](resolucao/)
+[linkdashboard](https://lookerstudio.google.com/reporting/03fd562f-f4d0-4d37-baf4-b1289cad6972)
+
+Gravei um vídeo com uma explicação sobre o código que está nesse link:
+
+
 
 Obrigada e a disposição para quaisquer esclarecimentos!
