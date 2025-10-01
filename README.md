@@ -19,6 +19,13 @@
 Uma conclusão detalhada sobre a resolução do teste se encontra aqui:
 
 [readme](resolucao/)
+
+Relatório com até 300 palavras:
+
+[relatorio](relatorio_insights.pdf)
+
+O dashboard pode ser acessado por esse link: 
+
 [linkdashboard](https://lookerstudio.google.com/reporting/03fd562f-f4d0-4d37-baf4-b1289cad6972)
 
 Gravei um vídeo com uma explicação sobre o código que está nesse link:
