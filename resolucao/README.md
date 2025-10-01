@@ -1,6 +1,4 @@
-# Teste_Analytics_BrunaCisotto
-
-Solução do teste
+# Solução do teste
 
 ## Parte1
 
