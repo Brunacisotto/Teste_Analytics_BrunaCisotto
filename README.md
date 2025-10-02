@@ -1,6 +1,7 @@
 ## Teste de Analytics
 
-![imagem](testeestágio.jpg)
+![testeestágio](https://github.com/user-attachments/assets/da27f97b-dd2d-4e88-9cbb-f109f452f6e9)
+
 
 Esse repositório foi criado para documentar a resolução do teste para o estágio de Analytics da empresa Quod, e está estruturado da seguinte forma: 
 
