@@ -1,22 +1,21 @@
 ## Teste de Analytics
 
+(testeestágio.jpg)
+
 Esse repositório foi criado para documentar a resolução do teste para o estágio de Analytics da empresa Quod, e está estruturado da seguinte forma: 
 
-- **datasets**: pasta com os datasets gerados em Python durante a execução do teste. [data](datasets/)
-- **instrucoes**: contém o documento recebido via e-mail com as instruções para o teste. [instrucoes](instrucoes/)
-- **PDF**: pasta com os PDFs gerados, sendo eles: 
-  - Um documento de análise dos resultados.
-  - Uma cópia de um dashboard feito no Looker Studio.  
-  [pdf](PDF/)
-- **prints gerados**: imagens do passo a passo de execução do teste. [prints](prints%20gerados/) 
-- **Python**: dois códigos em Python em formato `.py` e `.ipynb` (totalizando 4 arquivos): 
+- **[datasets](datasets/)**: pasta com os datasets gerados em Python durante a execução do teste. 
+- **[instrucoes](instrucoes/)**: contém o documento recebido via e-mail com as instruções para o teste. 
+- **[pdf](PDF/)**: pasta com os PDFs gerados, sendo eles: 
+  - Um documento de análise dos resultados (relatorio_insights.pdf).
+  - Uma cópia de um dashboard feito no Looker Studio (dashboardlookerstudio.pdf).  
+- **[prints gerados](prints%20gerados/)**: imagens do passo a passo de execução do teste. 
+- **[python](Python/)**: dois códigos em Python em formato `.py` e `.ipynb` (totalizando 4 arquivos): 
   - `teste_quod`: arquivo da primeira parte do teste, com código de geração, tratamento do dataset e análise.
   - `analise_quod`: arquivo da segunda parte do teste, com os gráficos necessários para análise. 
-  [python](Python/)
-- **resolucao**: pasta contendo um documento em word detalhando os passos de execuçao e um readme como mesmo conteúdo.
-[resolucao](resolucao/) 
-- **SQL**: contém as consultas SQL realizadas.
-[sql](SQL/)
+- **[resolucao](resolucao/)**: pasta contendo um documento em word detalhando os passos de execuçao e um readme como mesmo conteúdo.
+- **[SQL](SQL/)**: contém as consultas SQL realizadas.
+
 
 Uma conclusão detalhada sobre a resolução do teste se encontra aqui:
 
